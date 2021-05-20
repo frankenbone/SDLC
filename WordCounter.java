@@ -4,8 +4,8 @@ import java.util.*;
 public class WordCounter
 {
 	public static void main(String[] args) throws FileNotFoundException {
-		//file location local /Users/garyanstey/Desktop/Raven
-		File fin = new File("/Users/garyanstey/Desktop/Raven");
+		//file location 
+		File fin = new File("src/Raven");
 
 		//Setup a Scanner to read the file
 		Scanner fileScan = new Scanner(fin);
