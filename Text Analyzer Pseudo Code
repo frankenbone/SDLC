@@ -1,0 +1,32 @@
+//***********************************************************************************************************************************
+// Written By: Gary Anstey
+// Date......: 09/22/2020
+//Purpose....: Raise to a Power (Recursion)
+ //******************************************************************************************
+import java.util.*;
+import java.io.*;
+
+public class WordCounter{
+
+public static void main(String[] args) {
+
+//Just going to let method get called outside main
+		
+//Then I am going to need to read in the file- and specify the location of the file explicitly - do not know whether to place in src or local..will Decide.
+
+//Put in a scanner to read it and initialize - Use HashMap on String, Integer
+
+//Run a while loop
+
+Will need to set values here for map.containsKey(val)
+
+
+//retrieve the map using Set<Map.Something - but <String, Integer>
+
+	}//end main
+	
+	
+//Then println an enhanced for loop ( Like Map.Entry<String, Integer> I:sortList)
+
+
+}//end class
